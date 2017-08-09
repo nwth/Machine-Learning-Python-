@@ -1,7 +1,7 @@
 # Machine-Learning-Python-
 Classical machine learning algorithm
 
-# 说明 本Repository主要是常见机器学习算法在常见数据集上面的操作，是作者的学习笔记，希望能够帮助到同样的新手，希望能够得到你的Star。 欢迎访问我的博客。
+# 说明 本块内容主要是常见机器学习算法在常见数据集上面的操作，是对学习过程的记录，也希望能够帮助到同样的新手。
 
 使用Python3.5编写，需要的模块：
 numpy,
