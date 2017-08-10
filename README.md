@@ -22,9 +22,10 @@ matplotlib,
   svm_plot_iris.py, 使用不同的SVM对iris数据集进行分类并绘出结果
 - AdaBoost
   adaboost_ex.py, AdaBoost算法的简单二分类实例
--K-means
+- K-means
   K-means_ex.py, K均值聚类算法的简单实例
-
+- HMM
+  HMM.py，隐马尔科夫链的简单实例，前向算法及后向算法
 # 主要参考资料：
 机器学习实战[M].周志华.北京:清华大学出版社, 2013.
 李航.统计学习方法[M].北京:清华大学出版社, 2012.
